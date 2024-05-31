@@ -31,4 +31,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or feedback, please feel free to reach out to me at [mukundangopalachary@gmail.com](mukundangopalachary@gmail.com).
+For any questions or feedback, please feel free to reach out to me at mukundangopalachary@gmail.com
